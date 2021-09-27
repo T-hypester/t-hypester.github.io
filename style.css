@@ -10,10 +10,20 @@
 .grad {
     background: -webkit-gradient(linear, left top, right top, from(#181e2c), to(#f76b0e)) fixed;
 }
+.btn {
+    display: inline-block;
+    padding: .5rem 1.25rem;
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;
+    background-color: #0366d6;
+    border: 1px solid #0366d6;
+    border-radius: 6px;
+}
 
 .parallax-header{
     background: #000;
-    background: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.8)),url(/images/render.jpeg);
+    background: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.8)),url(/images/iso.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
