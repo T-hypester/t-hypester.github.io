@@ -1,0 +1,13 @@
+.gradient-text {
+    background-color: #f3ec78;
+    background-image: linear-gradient(45deg, #f3ec78, #af4261);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+
+.grad {
+    background: -webkit-gradient(linear, left top, right top, from(#181e2c), to(#f76b0e)) fixed;
+}

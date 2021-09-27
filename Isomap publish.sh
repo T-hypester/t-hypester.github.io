@@ -1,1 +1,0 @@
-scp 381881ef783af9f223b9a540c8630155.jpg d13ad0393a2816f970ee1e7f9fd24bbb.png 795917a5885afcdaa127e672c5616304.jpg index.html b9c0cdb4538cddc2a216c37248e18c3b.jpg index.js root@212.47.235.94:/var/www/html
